@@ -1,0 +1,30 @@
+
+      
+      .option-item {
+        padding: 8px 15px;
+        border: 1px solid #9370DB;
+        border-radius: 25px;
+        color: #9370DB;
+        font-size: 0.9rem;
+        margin: 3px;
+        box-shadow: inset 0px 0px 0px #9370DB;
+        transition: all 0.5s;
+        cursor: pointer;
+      }
+      
+      .option-item:hover {
+        box-shadow: inset 195px 0px 0px #9370DB;
+        color: #ffffff;
+      }
+      
+      .stats {
+        color: white;
+        font-size: 0.9rem;
+        background-color: rgba(205, 150, 237, 0.589);
+        display: flex;
+        background: linear-gradient(to top right, rgb(193, 120, 234), #9370DB);
+        border-radius: 10px;
+        align-items: center;
+        justify-content: center;
+      }
+      

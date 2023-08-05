@@ -1,0 +1,7 @@
+ export const Ajouter ='Pour ajouter un element il faut cliquer sur boutton ajout puis remplir les champs requis '
+ export const Modif ='Pour modifier un element il faut aller sur actions, choisir l\'option modifier puis effectuer les modifications selon votre besoin'
+ export const Supp ='Pour Supprimer un element il faut aller sur actions, choisir l\'option supprimer puis confirmer votre choix'
+ export const mission ='Pour gérer les Missions il faut cliquer sur Plannifier puis  choisir liste missions'
+ export const planning ='Pour consulter le planning des agents il faut cliquer sur Calendrier et choisir un agent'
+ export const suivie ='Pour assurer le suivie il faut aller à la rubrique Suivre et choisir l\'option qui vous convient'
+ export const aff ='Pour gérer les affectations il faut cliquer sur Plannifier puis choisir une option'

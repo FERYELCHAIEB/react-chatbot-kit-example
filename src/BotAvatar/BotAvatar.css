@@ -1,0 +1,13 @@
+.service-bot-avatar { 
+    width: 45px;
+    height:45px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ margin-right: 9px;
+    background-color: #9370DB;
+    
+    
+
+}
